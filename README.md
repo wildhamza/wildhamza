@@ -1,17 +1,7 @@
-### Hi there 👋
+My name is Hamza Ali, and I am a freelance app developer with expertise in Flutter, Firebase, Python, and Java. Over the past three years, I have developed several applications, including social media, travel, DBMS, trip planning, and interior design apps, as well as an open-source music player. Additionally, I have earned certifications in JavaScript, Java, Python, Flutter, Firebase, UI/UX design, and more.
 
-<!--
-**BusterTO/BusterTO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Currently, I am working on Tabeeb, a medical remedy app that utilizes Python machine learning for personalized recommendations. As my final-year project, I am also developing a career consultation app that matches individuals to careers based on their skills and interests using AI. I am pursuing a degree in Computer Software Engineering at IMSciences, where I have gained valuable programming skills and further developed my expertise.
 
-Here are some ideas to get you started:
+In addition to my software development work, I am strongly interested in computer hardware and IT technology. I maintain a small home lab where I experiment with various hardware components and configurations, allowing me to deepen my understanding of IT systems and stay updated with the latest technological advancements.
 
-- 🌱 I’m currently learning ... Application Development
-- 👯 I’m looking to collaborate on ... Small projects related to app development
-- 🤔 I’m looking for help with ... flutter
-- 💬 Ask me about ... Graphics Designing
-- 📫 How to reach me: ... https://www.linkedin.com/in/hamzaali9054/
-- 😄 Pronouns: ... he/him
-- ⚡ Fun fact: ... I am currently a 2nd Year College Student majoring in Software Engineering and I am doing an 
-                   internship with Triangle Marketing and Development Consultants. I work as a Graphics Designer but
-                   I also love Coding.
--->
+Looking ahead, I am pursuing a certification in Python Flask for Flutter backend development, aiming to become a full-stack developer. I have also built a comprehensive portfolio website to showcase my work and accomplishments. I am always exploring new technologies and look forward to making a positive impact in software engineering.
