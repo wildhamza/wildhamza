@@ -45,7 +45,7 @@ Currently pursuing **Python Flask** certification to further my backend developm
   
 - **Portfolio Website**:  
 I’ve built a comprehensive portfolio to showcase my work and achievements. Feel free to explore my projects!
-= hamzaali.vercel.app
+ [hamzaali.vercel.app](https://hamzaali.vercel.app/)
 
 ## 🌍 Let's Connect
 
