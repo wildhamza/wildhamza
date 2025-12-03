@@ -1,52 +1,52 @@
-# Hamza Ali - Freelance App Developer
+# Hamza Ali — App & Full-Stack Developer
 
-Hi, I'm **Hamza Ali**, a freelance app developer with expertise in **Flutter**, **Firebase**, **Python**, and **Java**. Below is an overview of my work, skills, and current projects.
+Hi, I'm **Hamza Ali**, an app and full-stack developer with strong expertise in **Flutter**, **Node.js**, **NestJS**, **React**, **Firebase**, **MongoDB**, and **Java**. I build scalable mobile apps and modern MERN/NestJS-based web applications focused on performance, clean architecture, and real-world usability.
 
 ## 🚀 Expertise
 
-- **Languages**: Flutter, Firebase, Python, Java
-- **Frameworks**: Flutter, Firebase, UI/UX design
-- **Technologies**: Machine Learning, AI, Database Management, Web Development
-- **Certifications**: JavaScript, Java, Python, Flutter, Firebase, UI/UX Design, and more
+- **Mobile Development**: Flutter, Firebase Integration, Clean Architecture  
+- **Web & Full-Stack**: React.js, Node.js, Express.js, NestJS, MongoDB (MERN)  
+- **Backend & APIs**: REST API design, authentication, database design  
+- **Technologies**: Cloud services, system architecture, database systems  
+- **Certifications**: JavaScript, Java, Flutter, Firebase, UI/UX Design, and more
 
 ## 🛠️ Projects
 
-### 1. **Tabeeb** - Medical Remedy App
-Currently developing **Tabeeb**, a medical remedy app that uses Python ML to provide personalized recommendations based on symptoms.
+### 🌿 **Tabeeb** — Medical Remedy App  
+A medical guidance app that generates personalized symptom-based recommendations using custom algorithms and structured medical data.
 
-### 2. **Career Consultation App** 
-As part of my final-year project, I’m building a career consultation app that leverages AI to match individuals with careers based on their **skills** and **interests**.
+### 🎯 **Career Consultation App**  
+A full AI-powered guidance system developed as my FYP, matching individuals to careers based on **skills**, **interests**, and **personality patterns**.
 
-### 3. **Open Source Music Player**
-Created an open-source music player app, contributing to the community while gaining experience with app design and development.
+### 🎵 **Open-Source Music Player**  
+An open-source mobile music player project focused on app design, offline media handling, and UI/UX experimentation.
 
-### 4. **Other Applications**
-- Social Media Platforms
-- Travel Apps
-- DBMS Systems
-- Trip Planning Tools
-- Interior Design Apps
+### 📱 **Other Applications**
+- Social media platforms  
+- Travel & trip-planning apps  
+- DBMS & productivity tools  
+- Interior design & utility apps  
+- MERN & NestJS-based web dashboards and admin panels  
 
 ## 🎓 Education
 
-**Bachelor's Degree in Computer Software Engineering**  
+**Bachelor's in Software Engineering**  
 *IMSciences*  
-- Gained strong programming skills and advanced technical knowledge.
+Developed strong foundations in software engineering, systems design, and modern development tools.
 
-## 🖥️ Interests & Hobbies
+## 🖥️ Interests
 
-- **Computer Hardware & IT Technology**:  
-I maintain a small home lab for experimenting with hardware setups and configurations. This helps me deepen my understanding of IT systems and stay updated with the latest trends.
+- **Computer Hardware & IT Systems**  
+I maintain a home lab for experimenting with servers, networking, and hardware—helping me understand systems end-to-end.
 
-## 📈 Future Goals
+## 📈 Goals
 
-- **Certifications**:  
-Currently pursuing **Python Flask** certification to further my backend development skills and become a full-stack developer.
-  
-- **Portfolio Website**:  
-I’ve built a comprehensive portfolio to showcase my work and achievements. Feel free to explore my projects!
- [hamzaali.vercel.app](https://hamzaali.vercel.app/)
+- Advancing backend skills with **NestJS** and scaling expertise across MERN systems  
+- Expanding my portfolio with more cross-platform apps and full-stack solutions  
 
-## 🌍 Let's Connect
+## 🌍 Connect
 
-I'm always eager to explore new technologies and contribute to impactful projects. If you'd like to collaborate or have any questions, feel free to reach out!
+Explore my work and projects:  
+**Portfolio:** https://hamzaali.vercel.app
+
+Always open to building meaningful and impactful applications.
