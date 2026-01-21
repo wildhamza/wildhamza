@@ -1,52 +1,17 @@
 # Hamza Ali — App & Full-Stack Developer
 
-Hi, I'm **Hamza Ali**, an app and full-stack developer with strong expertise in **Flutter**, **Node.js**, **NestJS**, **React**, **Firebase**, **MongoDB**, and **Java**. I build scalable mobile apps and modern MERN/NestJS-based web applications focused on performance, clean architecture, and real-world usability.
+# 💫 About Me:
+🔭 I’m currently working on<br>Building scalable full-stack applications using the MERN stack and NestJS, while contributing to mobile projects with Flutter. Currently focused on optimizing backend performance and enhancing cross-platform UX at Bave Holdings LLC.<br><br>👯 I’m looking to collaborate on<br>Open-source projects, full-stack web/mobile apps, or technical mentoring. Love working with teams that value clean architecture, test-driven development, and agile delivery.<br><br>🤝 I’m looking for help with<br>PostgreSQL optimization, NestJS architecture patterns, Flutter state management, or MERN deployment strategies. Always happy to pair up or review code!<br><br>🌱 I’m currently learning<br>Advanced NestJS decorators, GraphQL integration, Flutter state management (Riverpod, Bloc), and PostgreSQL indexing strategies. Also diving into CI/CD pipelines for full-stack apps.<br><br>💬 Ask me about<br>Software architecture, debugging complex backend issues, Flutter performance tuning, or how to structure a scalable MERN + NestJS app. I’m also happy to chat about DevOps, testing, or career growth in tech.
 
-## 🚀 Expertise
 
-- **Mobile Development**: Flutter, Firebase Integration, Clean Architecture  
-- **Web & Full-Stack**: React.js, Node.js, Express.js, NestJS, MongoDB (MERN)  
-- **Backend & APIs**: REST API design, authentication, database design  
-- **Technologies**: Cloud services, system architecture, database systems  
-- **Certifications**: JavaScript, Java, Flutter, Firebase, UI/UX Design, and more
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/iam.hamza.ali) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hamzaalibangash) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hamzaali.devx@gmail.com) 
 
-## 🛠️ Projects
+# 💻 Tech Stack:
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat&logo=dart&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat&logo=render&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=flat&logo=heroku&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=flat&logo=nestjs&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat&logo=redux&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat&logo=firebase&logoColor=ffcd34) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=flat&logo=Prisma&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=flat&logo=nVIDIA&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=flat&logo=Twilio&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=wildhamza&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=wildhamza&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=wildhamza&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### 🌿 **Tabeeb** — Medical Remedy App  
-A medical guidance app that generates personalized symptom-based recommendations using custom algorithms and structured medical data.
-
-### 🎯 **Career Consultation App**  
-A full AI-powered guidance system developed as my FYP, matching individuals to careers based on **skills**, **interests**, and **personality patterns**.
-
-### 🎵 **Open-Source Music Player**  
-An open-source mobile music player project focused on app design, offline media handling, and UI/UX experimentation.
-
-### 📱 **Other Applications**
-- Social media platforms  
-- Travel & trip-planning apps  
-- DBMS & productivity tools  
-- Interior design & utility apps  
-- MERN & NestJS-based web dashboards and admin panels  
-
-## 🎓 Education
-
-**Bachelor's in Software Engineering**  
-*IMSciences*  
-Developed strong foundations in software engineering, systems design, and modern development tools.
-
-## 🖥️ Interests
-
-- **Computer Hardware & IT Systems**  
-I maintain a home lab for experimenting with servers, networking, and hardware—helping me understand systems end-to-end.
-
-## 📈 Goals
-
-- Advancing backend skills with **NestJS** and scaling expertise across MERN systems  
-- Expanding my portfolio with more cross-platform apps and full-stack solutions  
-
-## 🌍 Connect
-
-Explore my work and projects:  
-**Portfolio:** https://hamzaali.vercel.app
-
-Always open to building meaningful and impactful applications.
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
