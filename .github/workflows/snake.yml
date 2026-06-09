@@ -16,9 +16,7 @@ jobs:
       - uses: miccy/snake-evolution@v1
         with:
           github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            assets/snake.svg
-            assets/snake-dark.svg?palette=github-dark
+          outputs: assets/snake.svg,assets/snake-dark.svg?palette=github-dark
 
       - uses: stefanzweifel/git-auto-commit-action@v5
         with:
