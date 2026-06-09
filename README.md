@@ -1,7 +1,7 @@
 <!-- WAVE HEADER -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:ff0080,100:00e5ff&text=WILD%20HAMZA&fontColor=ffffff&fontSize=70&desc=App%20%26%20Full-Stack%20Developer&descSize=22&descAlignY=75">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:ff0080,100:00e5ff&text=WILD%20HAMZA&fontColor=ffffff&fontSize=70&desc=App%20%26%20Full-Stack%20Developer&descSize=22&descAlignY=75">
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:ff0080,100:00e5ff&text=WILD%20HAMZA&fontColor=ffffff&fontSize=50&desc=App%20%26%20Full-Stack%20Developer&descSize=18&descAlignY=65">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:ff0080,100:00e5ff&text=WILD%20HAMZA&fontColor=ffffff&fontSize=50&desc=App%20%26%20Full-Stack%20Developer&descSize=18&descAlignY=65">
 </picture>
 
 <!-- TYPING ANIMATION -->
@@ -17,7 +17,7 @@
 <table>
   <tr>
     <td>🔭</td>
-    <td><b>Currently working on:</b> Scalable full-stack apps (MERN + NestJS) & Flutter mobile @ Bave Holdings LLC</td>
+    <td><b>Currently working on:</b> Scalable full-stack apps (MERN + NestJS) & Flutter mobile — Freelance Developer</td>
   </tr>
   <tr>
     <td>🌱</td>
@@ -60,18 +60,18 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=wildhamza&show_icons=true&bg_color=0d1117&title_color=ff0080&text_color=ffffff&icon_color=00e5ff&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats">
-  <img width="48%" src="https://nirzak-streak-stats.vercel.app/?user=wildhamza&background=0d1117&ring=ff0080&fire=ff0080&currStreakLabel=00e5ff&sideLabels=ffffff&dates=8b949e&hide_border=true" alt="GitHub Streak">
+  <img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=wildhamza&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats">
+  <img width="48%" src="https://streak-stats.demolab.com?user=wildhamza&theme=radical&hide_border=true" alt="GitHub Streak">
 </div>
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wildhamza&bg_color=0d1117&title_color=ff0080&text_color=ffffff&hide_border=true&layout=compact" alt="Top Languages">
+  <img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=wildhamza&theme=radical&hide_border=true&layout=compact" alt="Top Languages">
 </div>
 
 <!-- TROPHIES -->
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=wildhamza&theme=radical&no-frame=true&no-bg=true&row=2&column=4" alt="Trophies">
+  <img src="https://github-profile-trophy-fork-two.vercel.app/?username=wildhamza&theme=radical&no-frame=true&no-bg=true&row=2&column=4" alt="Trophies">
 </p>
 
 <!-- ACTIVITY GRAPH -->
@@ -93,7 +93,7 @@
 
 <!-- VISITOR COUNTER -->
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=wildhamza&icon=5&color=6" alt="Visitor Counter">
+  <img src="https://komarev.com/ghpvc/?username=wildhamza&label=Profile+Views&style=flat-square&color=ff0080" alt="Visitor Counter">
 </p>
 
 <!-- WAVE FOOTER -->
