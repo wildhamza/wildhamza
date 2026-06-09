@@ -16,9 +16,10 @@ jobs:
       - uses: miccy/snake-evolution@v1
         with:
           github_user_name: ${{ github.repository_owner }}
-          outputs: assets/snake.svg,assets/snake-dark.svg?palette=github-dark
+          outputs: dist/snake.svg,dist/snake-dark.svg?palette=github-dark
 
-      - uses: stefanzweifel/git-auto-commit-action@v5
+      - uses: peaceiris/actions-gh-pages@v4
         with:
-          commit_message: "chore: update contribution snake"
-          file_pattern: assets/*.svg
+          publish_branch: output
+          publish_dir: ./dist
+          github_token: ${{ secrets.GITHUB_TOKEN }}

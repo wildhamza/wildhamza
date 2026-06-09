@@ -85,8 +85,8 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wildhamza/wildhamza/main/assets/snake-dark.svg">
-    <img src="https://raw.githubusercontent.com/wildhamza/wildhamza/main/assets/snake.svg" alt="Snake">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wildhamza/wildhamza/output/snake-dark.svg">
+    <img src="https://raw.githubusercontent.com/wildhamza/wildhamza/output/snake.svg" alt="Snake">
   </picture>
 </p>
 
