@@ -16,7 +16,8 @@ jobs:
       - uses: miccy/snake-evolution@v1
         with:
           github_user_name: ${{ github.repository_owner }}
-          outputs: dist/snake.svg,dist/snake-dark.svg?palette=github-dark
+          outputs: dist/snake.svg
+          theme: github-dark
 
       - uses: peaceiris/actions-gh-pages@v4
         with:

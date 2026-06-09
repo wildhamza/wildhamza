@@ -84,10 +84,7 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wildhamza/wildhamza/output/snake-dark.svg">
-    <img src="https://raw.githubusercontent.com/wildhamza/wildhamza/output/snake.svg" alt="Snake">
-  </picture>
+  <img src="https://raw.githubusercontent.com/wildhamza/wildhamza/output/snake.svg" alt="Snake">
 </p>
 
 <!-- VISITOR COUNTER -->
