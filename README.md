@@ -12,12 +12,11 @@
 <!-- ABOUT ME -->
 ## 👨‍💻 About Me
 
-<img align="right" height="200" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding">
-
 <table>
   <tr>
     <td>🔭</td>
     <td><b>Currently working on:</b> Scalable full-stack apps (MERN + NestJS) & Flutter mobile — Freelance Developer</td>
+    <td rowspan="5" align="center"><img height="200" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding"></td>
   </tr>
   <tr>
     <td>🌱</td>
@@ -86,8 +85,8 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wildhamza/wildhamza/output/github-contribution-grid-snake-dark.svg">
-    <img src="https://raw.githubusercontent.com/wildhamza/wildhamza/output/github-contribution-grid-snake.svg" alt="Snake">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wildhamza/wildhamza/main/assets/snake-dark.svg">
+    <img src="https://raw.githubusercontent.com/wildhamza/wildhamza/main/assets/snake.svg" alt="Snake">
   </picture>
 </p>
 
