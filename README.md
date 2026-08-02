@@ -59,18 +59,18 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=wildhamza&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats">
+  <img width="48%" src="profile/stats.svg" alt="GitHub Stats">
   <img width="48%" src="https://streak-stats.demolab.com?user=wildhamza&theme=radical&hide_border=true" alt="GitHub Streak">
 </div>
 <div align="center">
-  <img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=wildhamza&theme=radical&hide_border=true&layout=compact" alt="Top Languages">
+  <img width="48%" src="profile/top-langs.svg" alt="Top Languages">
 </div>
 
 <!-- TROPHIES -->
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy-fork-two.vercel.app/?username=wildhamza&theme=radical&no-frame=true&no-bg=true&row=2&column=4" alt="Trophies">
+  <img src="https://github-profile-trophy-orcin-eta.vercel.app/?username=wildhamza&theme=radical&no-frame=true&no-bg=true&row=2&column=4" alt="Trophies">
 </p>
 
 <!-- ACTIVITY GRAPH -->
